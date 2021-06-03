@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true report and exact description of a mighty sea-monster or whale, cast vpon Langar-shore ouer against Harwich in Essex, this present moneth of Februarie 1617. With a briefe touch of some other strange precedent and present occurents.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15514</idno><idno type="EEBO-CITATION">99838945</idno>
+  <idno type="VID">177812</idno>
+  <idno type="EEBO-PROQUEST">2240921111</idno>
+  <idno type="STC">STC 20892</idno>
+  <idno type="STC">ESTC S103188</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838945e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1217:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true report and exact description of a mighty sea-monster or whale, cast vpon Langar-shore ouer against Harwich in Essex, this present moneth of Februarie 1617. With a briefe touch of some other strange precedent and present occurents.</title>
+               </titleStmt>
+               <extent>[2], 11, [1] p. : ill  </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Holland and are to be sold by C. [Holland] at the Globe in Cornehill ouer against the Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bookseller's name from STC.</note>
+                  <note>With woodcut title vignette; repeated on recto of B4, final leaf.</note>
+                  <note>Identified as STC 20892a on UMI microfilm.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">End of the world --  Early works to 1800.</term>
+               <term type="topical_term">Providence and government of God --  Early works to 1800.</term>
+               <term type="topical_term">Sea monsters --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177812:1"/>
+            <pb facs="tcp:177812:1"/>
+            <p>A TRVE REPORT AND EXACT DESCRIP<g ref="char:EOLhyphen"/>tion of a mighty Sea-monster, or Whale, cast vpon <hi>Langar-</hi>shore ouer against <hi>Harwich</hi> in <hi>Essex,</hi> this present moneth of Februarie 1617.</p>
+            <p>With a briefe touch of some other strange prece<g ref="char:EOLhyphen"/>dent and present occurrents.</p>
+            <figure>
+               <figDesc>depiction of a beached whale</figDesc>
+            </figure>
+            <p>LONDON Printed for <hi>H. Holland</hi> and are to be sold by <hi>C. H.</hi> at the Globe in Cornehill ouer against the Exchange. 1617.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:177812:2"/>
+            <pb n="1" facs="tcp:177812:2"/>
+            <head>A TRVE REPORT and exact description of a migh<g ref="char:EOLhyphen"/>tie Sea-monster or Whale, cast vpon <hi>Langar</hi>-shore ouer against <hi>Harwich</hi> in <hi>Essex,</hi> this present moneth of Februarie. 1617.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough it is euer to be con<g ref="char:EOLhyphen"/>fessed and acknowledged with thankefull hearts, that many and infinite are the blessings and benefits which Almightie GOD hath bestowed and powred vpon this our Land of <hi>Great Britaine,</hi> especially, since the pure profession and preaching of his Gos<g ref="char:EOLhyphen"/>pell amongst vs, for the space of <hi>60.</hi> yeares and vpwards; for the which, blessed bee his Name for euer. Yet in this old and declining aage of the World, such and so great is the hereditarie peruersenesse of miserable mankindes naturall inclination,
+<pb n="2" facs="tcp:177812:3"/>that although wee infallibly know, that God is infinite in power, and his waies and iudgements are past finding out: Yea, though we generally confesse him to be the mightie, eternall, incomprehensible, and onely wise <hi>Iehouab,</hi> in whose hands and knowledge are all things past, present, and future: Though, Isay, wee confesse and professe an externall beliefe that God can and will punish obstinat and stiffe-necked sinners in the vprightnesse of his confoun<g ref="char:EOLhyphen"/>ding Iustice: yet wee presuming (because it is said in holy Writ, His mercy is infi<g ref="char:EOLhyphen"/>nite and ouer all his workes) vpon his mercy, that we are altogether forgetfull of his Iustice; So that for all, notwith<g ref="char:EOLhyphen"/>standing our knowledge, our confession, and profession, we liue in Atheisme, Pa<g ref="char:EOLhyphen"/>pisme, and Epicurisme, and so many sun<g ref="char:EOLhyphen"/>dry forts of <hi>Hydra</hi>-headed Schismes, that, for the most part, wee spend our times in this wicked World, little better then in bruit-Barbarisme: for I am ve<g ref="char:EOLhyphen"/>rely perswaded that God had neuer fewer true seruants, nor more Professours, than are in these our dayes; and surely, it is to bee feared where God hath least, the Deuill hath most: And wee are so lulled and rockt a sleepe in the carelesse cradle
+<pb n="3" facs="tcp:177812:3"/>of sensuall securitie, by the Prince of the Ayre (Sathan) and his two neere kins<g ref="char:EOLhyphen"/>men, the World and the Flesh, that wee (as it were) in despight of the Eternall GOD, tread and trample his sacred Lawes, and sanctified Testimonies vn<g ref="char:EOLhyphen"/>der our prophane, vnhallowed and rebel<g ref="char:EOLhyphen"/>lious feet; and with a high hand, and an aspiring heart, and millions varieties of transgressions wee seeme to batter the glorious frame of Heauen with thundring shot of our abominable Hell-hatched im<g ref="char:EOLhyphen"/>pieties.</p>
+            <p>These outragious enormities dayly prouoking our most iust GOD to power forth the consuming Vials of his incensed heauie indignation vpon all the misgouer<g ref="char:EOLhyphen"/>ned. Sonnes of sinnefull Men: for as God is infinite in his Mercy so is he infi<g ref="char:EOLhyphen"/>nite in his Iustice: and as our Transgres<g ref="char:EOLhyphen"/>sions are numberlesse, so are the diuers and seuerall rods and punishments that God vseth to scourge vs with and inflict vpon vs innumerable, sometimes by weake meanes to accomplish great things and confound the mightie; and sometimes by elementall causes, as Fire, Aire, Water and Earth, he shewes his vniuersal power vpon offenders: and sometimes by vnauoi<g ref="char:EOLhyphen"/>dable
+<pb n="4" facs="tcp:177812:4"/>infections of Plagues and pestilen<g ref="char:EOLhyphen"/>tiall Feuers, and many other miserable maladies: whereof, ouerpassing many o<g ref="char:EOLhyphen"/>ther that haue happened by Gods hand in this our aage, &amp; looking but a little backe, let vs remember and recite, with feare and terror, some that haue befallen vs of late dayes.</p>
+            <p>For example: First, that deuouring mortalitie of the Plague and Pestilence, that in lesse then a yere laid so many thou<g ref="char:EOLhyphen"/>sand soules (aboue an hundred thousand in <hi>London</hi>) groaueling in their graues, in the yeare of our Lord <hi>1603.</hi>
+            </p>
+            <p>Secondly, in the yeare of our Lord <hi>1605.</hi> That horrible and most execrable Plot of Powder Treason, detected and discouered miraculously by Gods prouidence, and the wisdome of our most wise King, to the glo<g ref="char:EOLhyphen"/>rie of God, the good of this land, and the eternall infamie of the Pope and all his English-adherents.</p>
+            <p>Thirdly, the great fires in diuers parts of the land, which haue burned downe whole Townes of no small account.</p>
+            <p>What grieuous deluges outragious Inundations, and vnresistable ouerflow<g ref="char:EOLhyphen"/>ings of Waters, nor Historie nor man re<g ref="char:EOLhyphen"/>cording the like (since the generall Deluge)
+<pb n="5" facs="tcp:177812:4"/>whereby many hundreds of Acres of pa<g ref="char:EOLhyphen"/>sture &amp; earable land haue bin in a little space turned (as it were) into a Maine Ocean, that the fishes floating in their new made regiments, haue fed on the drowned car<g ref="char:EOLhyphen"/>kaises of men, women, children &amp; beasts.</p>
+            <p>What a prodigious, and neuer the like heard of Frost which (being so long, made the earth as hard as our stony hearts) kil<g ref="char:EOLhyphen"/>led the fruits of the Earth, and congealed the Riuers that the Fishes of many waters died. <hi>Anno 1608.</hi>
+            </p>
+            <p>What Droughts causing sterilitie and barrennesse of our fruitfull mother Earth we haue had, God in his anger withhold<g ref="char:EOLhyphen"/>ing the Raine, and shutting the windows of Heauen, that the senselesse ground hath gaped to Heauen for reliefe, when wee our selues haue scarse opened our mouthes to desire Gods fauour, it is sufficiētly known to all Estates and degrees.</p>
+            <p>What hurts, damages, and irrecouera<g ref="char:EOLhyphen"/>ble losses &amp; hinderances men haue sustai<g ref="char:EOLhyphen"/>ned by tempestious Windes and stormes both on Land and Sea, when on the Land Churches, and Steeples, Houses, and Chimnies, Trees, and diuers other things that were for the necessary vse of men, haue bin vtterly subuerted and throwne down,
+<pb n="6" facs="tcp:177812:5"/>to the vtter vndoing of soule &amp; the great im<g ref="char:EOLhyphen"/>pouerishing of many; especially in the windy Winter, <hi>An. 1612.</hi> In which blustring winter was also blown frō vs on earth (by the blast of Gods iudgmēts for our sins) our most no<g ref="char:EOLhyphen"/>ble, hopefull, &amp; incomperable Prince <hi>Henrie,</hi> whose losse is neuer enough lamented.</p>
+            <p>And to come more nere vnto this very in<g ref="char:EOLhyphen"/>stāt time, Was there euer heard of such great &amp; so deepe. Snows as hapned the yere <hi>1614.</hi> which continued so long, as besides the losse of many Christian people that perished by it, the whole continēt was couered so long with such a froze fleece of snow, that the number of cattel which perished in the time for want of food shelter &amp; otherwise were innumerable.</p>
+            <p>And besides, to seaue the Land &amp; returne to the Water: What great and manifold harmes haue bin vpon the Sea, the outragi<g ref="char:EOLhyphen"/>ous winds making it (in a maner) altogether vnnauigable: Of the which to write in euery particular were a World of worke &amp; beyond my meaning or purpose. But al these afore<g ref="char:EOLhyphen"/>said grieuous calamities let vs all confesse &amp; acknowledge with penitent hearts, to be the true tokens that our merciful God is highly offended with vs; &amp; I am perswa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed that the third part of the people of this Kingdome of <hi>Great Britaine,</hi> doe, and will euer remember
+<pb n="7" facs="tcp:177812:5"/>whiles they haue a day to liue, some one or other of these precedent afflictions, some by losse of friends by death, some by losse of goods by fire, water, or other meanes: so that there is not nor hath not bin (nor I doubt will not bee) any day night, houre or minute, wherein God hath not, doth not or will not poure his venge<g ref="char:EOLhyphen"/>ance by one meanes or other, in one place or other, vpon vs impenetrable, vnrepenting, &amp; persidious people, whiles we so persist.</p>
+            <p>But (Christiā Reader) leauing this per<g ref="char:EOLhyphen"/>ambulation or triuiall trauel (as haply you may terme it) I mean to treat of my inten<g ref="char:EOLhyphen"/>ded subiect: nor wil I busie and abuse your eies &amp; eares with any fond fables <hi>of flying Serpents,</hi> or as fond delusions of <hi>deuouring Dragons, of Men or womē burne to death mi<g ref="char:EOLhyphen"/>raculously without fire, of dead men rising out of their graues</hi> (which is directly against the truth of the reueled wil of God in the sacred Scriptures, that any dead bodie shal arise before the general resurrection) the which &amp; the like lying Pamphlets &amp; Prophesies it is to be wished were by Authority crusht in the cradle &amp; suppressed, rather than publish<g ref="char:EOLhyphen"/>ed &amp; dinulged in the world to staine paper and fill mens mouths, especially the igno<g ref="char:EOLhyphen"/>rant multitude, full of false miraculous wonderments: being indeed nothing but
+<pb n="8" facs="tcp:177812:6"/>meere eoseuing deuises of idle braines or Iesuiticall impostures and delusions, or both.</p>
+            <p>Now, to my purpose, for that hath hap<g ref="char:EOLhyphen"/>ned this present Winter, the beginning wherof for a good space (God looking mer<g ref="char:EOLhyphen"/>cifully vpon vs) was drie, mild, and verie temperate, the like scarse knowne hereto<g ref="char:EOLhyphen"/>fore: but God seeing vs neuerthelesse to persist in our accustomed sinnes, turned drinesse into wetnesse, mildnesse into mer<g ref="char:EOLhyphen"/>cilesse blustering: and besides the damage that is done againe by Waters &amp; Flouds in diuers parts, especially in the West parts of the Land, as is credibly reported, surely this latter part of Winter hath been very intemperate, vncouth and vnseasona<g ref="char:EOLhyphen"/>ble; as namely, by a strange kinde of warmenesse without Frost, a continuall and continued raine and showring which still came in on <hi>Boreas</hi> backe, for these many daies past: which bitter blasts also haue remained so long Southernly, which is almost incredible, were it not that we knew it) that diuers Ships and Car<g ref="char:EOLhyphen"/>uils haue waited for a Wind to bring them from <hi>Harwich,</hi> &amp; other places, about these three moneths: and diuers other of our Merchants Ships of <hi>London</hi> haue wai<g ref="char:EOLhyphen"/>ted
+<pb n="9" facs="tcp:177812:6"/>as long in the Downes and therea<g ref="char:EOLhyphen"/>bouts to set saile in the maine Ocean for to performe their intended Voiages, and yet I beleeue are scarse gotten out.</p>
+            <p>Moreouer, what strange, fearefull and astonishing thunder-claps and lightning firie-flashes haue ouer eares and eyes been witnesses vnto, within these few dayes; which at the least, going but to naturall reason, according to the old Prouerb wee may say, <hi>Winters thunder is Summers won<g ref="char:EOLhyphen"/>der.</hi>
+            </p>
+            <p>But we may iustly feare (and so bee the more humbled for our sinnes) that these fearefull accidents are beginning forerun<g ref="char:EOLhyphen"/>ners of the last Day: dreadfull vnto all the wicked: but as glori<g ref="char:EOLhyphen"/>ous vnto all the godly.</p>
+         </div>
+         <div type="part">
+            <pb n="10" facs="tcp:177812:7"/>
+            <head>A true Report and exact description of a mighty Sea-monster, or Whale▪ cast vpon <hi>Langar</hi>-shore neere <hi>Harwich,</hi> this pre<g ref="char:EOLhyphen"/>sent moneth of Februarie. 1617.</head>
+            <p>AMongst many other prodigious acci<g ref="char:EOLhyphen"/>dents happened this strange, vncouth and vnseasonable Winter: On Saturday the first of this present moneth of Februa<g ref="char:EOLhyphen"/>rie, being a terrible tempestuous day, the Maine-Ocean disgorged her self of a migh<g ref="char:EOLhyphen"/>tie Sea-monster or Whale, I know not whether to terme it, the exact description whereof as I receiued it in a Letter from a reuerend and learned Diuine, Minister of <hi>Harwich,</hi> is as followeth.</p>
+            <p>The length <hi>56.</hi> font, the heighth or depth <hi>9.</hi> or <hi>10.</hi> foot, the breadth <hi>14.</hi> foot, the com<g ref="char:EOLhyphen"/>passe about <hi>36.</hi> foot, the taile in compasse <hi>16.</hi> foot, the lēgth of the nether iaw <hi>12.</hi> foot. It appeares to be a Male: the skinne blacke and like leather, the flesh in colour and sub<g ref="char:EOLhyphen"/>stance like brawne: the eyes huge and be<g ref="char:EOLhyphen"/>ing fixed, as it were on the backe, with one open spout in the top of the head, and otherwise very monstrous and confusedly composed, as you may see by the true por<g ref="char:EOLhyphen"/>trature
+<pb n="11" facs="tcp:177812:7"/>thereof here presented vnto your view, as well as may be contracted in so small a forme.</p>
+            <p>It appeares also to be but a yong one, and yet is very fat, and yeeldeth much oyle, but is doubt<g ref="char:EOLhyphen"/>full that it wil be of lesse vse it sauoureth so strong<g ref="char:EOLhyphen"/>ly by reason as is also coniectured that it was dead diuers daies before the Sea cast it vp on our Coasts. I my selfe and thousands besides haue seene and beheld it, lying at <hi>Langar</hi> side in <hi>Ipwich</hi> water ouer against <hi>Harwich</hi> Towne, about a mile and halfe distant.</p>
+            <p>Now whether this Monster of the Sea bee o<g ref="char:EOLhyphen"/>minous or not, I had rather leaue to the wise and learned then my selfe determine.</p>
+            <figure>
+               <figDesc>depiction of a beached whale</figDesc>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
